@@ -18,7 +18,7 @@
 
 В качестве бизнес метрики мы будем использовать:
 
-$$Revenue = \text{\it Number of customers} \times \text{\it Average Bill}$$
+$Revenue = \text{\it Number of customers} \times \text{\it Average Bill}$
 
 
 Оценивать бизнес метрику мы будем на всех клиентах
