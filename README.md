@@ -43,7 +43,7 @@
 
 ## 4. Валидация данных и оценка потенциала
 
-Исследование данных и построение baseline модели приведено в ноутбуке [uplift_eda.ipynb](https://github.com/flashlight101/teta_summer_school_uplift_x5/blob/main/uplift_eda.ipynb), ссылка для удобного просмотра в браузере: [nbviewer](https://nbviewer.jupyter.org/github/flashlight101/teta_summer_school_task2/blob/main/uplift_eda.ipynb)
+Исследование данных и построение baseline модели приведено в ноутбуке [uplift_eda.ipynb](https://github.com/flashlight101/teta_summer_school_uplift_x5/blob/main/uplift_eda.ipynb), ссылка для удобного просмотра в браузере: [nbviewer](https://nbviewer.jupyter.org/github/flashlight101/teta_summer_school_uplift_x5/blob/main/uplift_eda.ipynb)
 
 ## 5. Оценка экономического эффекта
 
