@@ -15,14 +15,14 @@
 Цель проекта - Нам необходимо разработать алгоритм(сервис), который предсказывает, следует ли отправлять текстовое сообщение клиенту.
 
 Успешность внедрения проекта мы сможем оценить по уменьшенному оттоку клиентов и по уменьшенным затратам на отправку сообщений клиентам.
-
+![Картинка](https://hsto.org/r/w1560/webt/mb/ed/iw/mbediw3l1dh76tk6_0-zgaxz-ss.jpeg)
 Для решения поставленой задачи мы построим uplift модель. В нашей задаче мы будем использовать метрику uplift@k, которая представляет собой размер uplift на топ k процентах выборки.
 
 ## 3. Выбор набора данных
 
 ## 4. Валидация данных и оценка потенциала
 
-Исследование данных и построение baseline модели приведено в ноутбуке [uplift_eda.ipynb](https://github.com/flashlight101/teta_summer_school_uplift_x5/blob/main/uplift_eda.ipynb), ссылка для удобного просмотра в браузере: [nbviber](https://nbviewer.jupyter.org/github/flashlight101/teta_summer_school_task2/blob/main/uplift_eda.ipynb)
+Исследование данных и построение baseline модели приведено в ноутбуке [uplift_eda.ipynb](https://github.com/flashlight101/teta_summer_school_uplift_x5/blob/main/uplift_eda.ipynb), ссылка для удобного просмотра в браузере: [nbviewer](https://nbviewer.jupyter.org/github/flashlight101/teta_summer_school_task2/blob/main/uplift_eda.ipynb)
 
 ## 5. Оценка экономического эффекта
 
