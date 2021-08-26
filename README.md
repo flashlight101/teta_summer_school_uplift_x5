@@ -73,7 +73,9 @@
 
 ## 6. Разработка и валидация ML модели
 
-[Разработка и валидация ML модели](https://github.com/flashlight101/teta_summer_school_uplift_x5/blob/main/uplift_eda.ipynb)
+[Разработка и валидация ML модели](https://github.com/flashlight101/teta_summer_school_uplift_x5/blob/main/uplift_eda.ipynb) ссылка на [nbviewer](https://nbviewer.jupyter.org/github/flashlight101/teta_summer_school_uplift_x5/blob/main/uplift_model_validation.ipynb)
+
+## 7. Разработка Demo stand
 
 
 
