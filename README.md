@@ -76,7 +76,8 @@
 [Разработка и валидация ML модели](https://github.com/flashlight101/teta_summer_school_uplift_x5/blob/main/uplift_eda.ipynb) ссылка на [nbviewer](https://nbviewer.jupyter.org/github/flashlight101/teta_summer_school_uplift_x5/blob/main/uplift_model_validation.ipynb)
 
 ## 7. Разработка Demo stand
-
+В качестве демо стенда используется связка streamlit и heroku. Данные подгружаются в виде csv файла определенной структуры, пример указан на самом стенде.
+Ссылка(https://uplift-teta.herokuapp.com/) на сам стенд.
 
 
 
