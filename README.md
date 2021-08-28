@@ -77,7 +77,7 @@
 
 ## 7. Разработка Demo stand
 В качестве демо стенда используется связка streamlit и heroku. Данные подгружаются в виде csv файла определенной структуры, пример указан на самом стенде.
-[Ссылка](https://uplift-teta.herokuapp.com/) на сам стенд.
+[Ссылка](https://uplift-teta.herokuapp.com/) на сам стенд. [Ссылка](https://github.com/viewlck/Teta_test/tree/main) на репозиторий стенда.
 
 
 
